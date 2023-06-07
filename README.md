@@ -1,1 +1,3 @@
+Lazy update
+
 # Gitops-demo
